@@ -1,0 +1,2 @@
+# futbol1
+$ pygwalker config --help  usage: pygwalker config [-h] [--set [key=value ...]] [--reset [key ...]] [--reset-all] [--list]  Modify configuration file. (default: /Users/douding/Library/Application Support/pygwalker/config.json)  Available configurations:  - privacy  ['offline', 'update-only', 
